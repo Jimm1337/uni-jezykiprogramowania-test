@@ -1,9 +1,7 @@
-# Appka na zajęcia języki programowania 3
+# Appka na zajęcia języki programowania 4
 ## Autor: 263970
-## Data: 21-11-2022
+## Data: 04-12-2022
 
-# Opis: Aplikacja na Swing z bazą danych (prosta)
-* Wyświetla dane po zalogowaniu
-* Dodaje dane do bazy
-* Usuwa dane z bazy
-* Weryfikuje dane logowania
+# Opis: Aplikacja na Swing z uciekającym przyciskiem i kanwą (prosta)
+* Uciekający przycisk po wejściu
+* po naciśnięciu kanwa z możliwością umieszczania kształtów myszą
