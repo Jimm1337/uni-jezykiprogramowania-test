@@ -16,7 +16,7 @@ public class RunningButton extends JButton implements MouseListener {
     private final IWindow owner;
 
     public RunningButton(IWindow owner) {
-        super("Running");
+        super("Kanwa");
         this.owner = owner;
         addMouseListener(this);
         addActionListener(this::eventClick);

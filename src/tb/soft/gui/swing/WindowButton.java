@@ -7,7 +7,7 @@ public class WindowButton extends WindowBase {
     private final RunningButton button;
 
     public WindowButton(IGui manager) {
-        super(manager, "Button");
+        super(manager, "Przycisk");
 
         this.button = new RunningButton(this);
         content.addComponent(button, 200, 200);
