@@ -4,6 +4,8 @@ import javax.swing.*;
 
 /**
  * klasa główna zawierająca metodę statyczną main
+ *
+ * Rysowanie - Od lewego górnego do prawego dolnego rogu
  */
 public class Main {
     public static void main(String[] args) {

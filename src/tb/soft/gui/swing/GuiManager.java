@@ -13,7 +13,7 @@ public class GuiManager extends Container implements IGui {
     public GuiManager(IApp app) {
         this.app = app;
 
-        flow(new WindowButton(this));
+        flow(new WindowCanva(this));
     }
     @Override
     public void entry() {
